@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: blue;
+    margin: 20px 300px 20px ;
+    text-align: center;
+    color: white;
+}
+.titulo{
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    text-align: left;
+}
+.tex{font-size: 14px;
+    text-align: justify;
+
+}
+h12{background-color: black;
+    color: white;
+    font-size: 25px;
+
+}
